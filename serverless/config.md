@@ -23,3 +23,12 @@ Value               https://yk2cdfp1t0.execute-api.us-east-1.amazonaws.com/Prod/
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Successfully created/updated stack - ivs-demo-web in us-east-1
+
+Executando a demonstração
+
+Depois de configurar o aplicativo, siga estas instruções para executar a demonstração:
+
+Instale o NodeJS . Baixe a versão mais recente do LTS ("Recomendado para a maioria dos usuários")
+Navegue até o diretório do projeto web-ui em seu computador local
+Executar: npm install
+Executar: npm start
